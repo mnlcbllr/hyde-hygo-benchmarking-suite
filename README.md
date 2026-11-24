@@ -142,3 +142,9 @@ Copy `.env.example` to `.env`:
   (default: `<repo>/data` in a source checkout,
   `~/.local/share/hyde-hygo-benchmark-suite` for installed builds).
 - `LOG_LEVEL`: application log level.
+
+## Project links
+
+- [HyDE-HyGO Bench Suite project overview](https://manuelcaballero.dev/projects/hyde-hygo-suite)
+- [Manuel Caballero — Full-Stack AI Engineer](https://manuelcaballero.dev)
+
